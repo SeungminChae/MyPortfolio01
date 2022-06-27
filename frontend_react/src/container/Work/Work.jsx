@@ -45,9 +45,9 @@ const Work = () => {
       <h2 className="head-text">
         My&nbsp;<span>Portfolio</span>&nbsp;Section
       </h2>
-{/*  temporarily commented out because there are too few projects.
+ temporarily commented out because there are too few projects.
       <div className="app__work-filter">
-        {['All', 'C#', 'Web App', 'SQL'].map((item, index) => (
+        {/* {['All', 'C#', 'Web App', 'SQL'].map((item, index) => (
           <div
             key={`filter${index}`}
             onClick={() => handleWorkFilter(item)}
@@ -55,8 +55,8 @@ const Work = () => {
             >
               {item}
           </div>
-        ))}
-      </div> */}
+        ))} */}
+      </div>
 
       <motion.div
         animate={animateCard}
