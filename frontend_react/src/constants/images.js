@@ -2,6 +2,7 @@ import email from '../assets/email.png';
 import mobile from '../assets/mobile.png';
 import api from '../assets/api.png';
 import cpp from '../assets/cpp.png';
+import csharp from '../assets/csharp icon.png';
 import css from '../assets/css.png';
 import figma from '../assets/figma.png';
 import flutter from '../assets/flutter.png';
@@ -24,6 +25,7 @@ import about03 from '../assets/about03.png';
 import about04 from '../assets/about04.png';
 
 import profile from '../assets/profile.png';
+import scprofile from '../assets/SCpicture.png';
 import circle from '../assets/circle.svg';
 import logo from '../assets/logo.png';
 import sclogo from '../assets/logo-Seungmin Chae.png';
@@ -41,6 +43,7 @@ const images = {
   mobile,
   api,
   cpp,
+  csharp,
   css,
   figma,
   flutter,
@@ -61,6 +64,7 @@ const images = {
   about03,
   about04,
   profile,
+  scprofile,
   circle,
   logo,
   sclogo,

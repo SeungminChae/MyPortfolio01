@@ -143,7 +143,9 @@
     position: relative;
 
     img {
-        width: 100%;
+        margin: 5%;
+        width: 90%;
+        height: 90%;
         object-fit: cover;
         z-index: 1;
     }
